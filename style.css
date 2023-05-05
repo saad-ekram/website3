@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* 
+ vendor prefix 
+*/
+p {
+    /*  -webkit- animation: none ;  // chrome
+        -moz-
+        -ms-
+        -O- 
+        css-pro
+    */
+}
+
+.div1 {
+     width: 300px;
+     height: 300px;
+     /* background-color: blueviolet; */
+     /* background-image: url(../Images/trainer-1.jpg); */
+     background-size: cover ;
+     margin: 100px auto;
+     border: 2px solid  grey;
+
+     border-radius: 15px ;
+     /* border-radius: 10px 80px;
+     border-radius: 5px   20px  50px; */
+     /* /////////////////////////////////////////////// */
+
+     /* box-shadow: 20px   20px   100px   20px   rgb(140, 247, 0)    ; */
+     /* h   v   blur   spread  color    inset   */
+     /* //////////////////////////////////////////////////////////////////////////////////////// */
+
+     /* background: -webkit-linear-gradient(  right , rgb(80, 247, 3) , yellow  , red , brown ) ; */
+    
+     /* background: -webkit-radial-gradient( 50%  90% , circle ,  rgb(255, 251, 1) , blue  , red , brown , black ); */
+}
+.title1 {
+    text-align: center;
+    font-size: 55px;
+
+     text-shadow: 6px  6px  6px  rgb(187, 255, 0) ;
+      /* h   v   blur  color    */
+}
+
+   
+
+
